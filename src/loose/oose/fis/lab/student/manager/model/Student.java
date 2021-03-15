@@ -38,7 +38,7 @@ public class Student {
         return Objects.hash(firstName, lastName, age, meanGrade);
     }
 
-    public String getFirstName() {git
+    public String getFirstName() {
         return firstName;
     }
 
