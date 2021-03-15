@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\ANDREEA\Desktop\StudentManager\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/compiler.xml
+/description.html
+/encodings.xml
+/gradle.xml
+/misc.xml
+/modules.xml
+/uiDesigner.xml
+/vcs.xml
